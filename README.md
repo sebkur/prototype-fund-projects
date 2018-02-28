@@ -2,13 +2,13 @@
 
 Since 2017, the [Prototype Fund](https://prototypefund.de/en/) financially supports open source projects in Germany. But there hasn't been a way to get a quick overview of all the amazing projects. So I compiled this list.
 
-If there are mistakes in this document, I am sorry. Please open [an issue](https://github.com/jfilter/prototype-fund-projects/issues) or a pull request. Also, you are more than welcome to improve or add information. Thanks!
+If there are mistakes in this document, I am sorry. Please open [an issue](https://github.com/jfilter/prototype-fund-projects/issues) or a pull request. Also, you are more than welcome to improve or add missing information. Thanks!
 
 ## Round #2 (01.09.2017 – 28.02.2018)
 
 ### Metawahl
 
-* Analysis of Different “Wahl-O-Mat” (Decision Aid for Elections)
+* An Historical Analysis of “Wahl-O-Mat” Systems (Decision Aid for German State and Federal Elections)
 * Demo/Website: https://metawahl.de
 * Code: https://github.com/ciex/metawahl
 * Status: Releasing
@@ -16,7 +16,7 @@ If there are mistakes in this document, I am sorry. Please open [an issue](https
 
 ### UwaziML
 
-* Machine Learning on Document Collections for NGOs
+* Apply Machine Learning on Document Collections for NGOs
 * Demo/Website: ?
 * Code: ?
 * Status: Releasing
@@ -24,7 +24,7 @@ If there are mistakes in this document, I am sorry. Please open [an issue](https
 
 ### Pretix
 
-* Ticketing System
+* A Ticketing System
 * Demo/Website: https://pretix.eu/
 * Code: https://github.com/pretix
 * Status: Releasing
@@ -48,7 +48,7 @@ If there are mistakes in this document, I am sorry. Please open [an issue](https
 
 ### Datenguide
 
-* An Improved API and Website for Regional Statistics
+* An Improved API and Website for German Regional Statistics
 * Demo/Website: http://datengui.de
 * Code: https://github.com/datenguide
 * Status: Developing
@@ -56,7 +56,7 @@ If there are mistakes in this document, I am sorry. Please open [an issue](https
 
 ### Atommüll-Atlas
 
-* Map Concerning Disposal of Radioactive Waste
+* A Map Concerning Disposal of Radioactive Waste in Germany
 * Demo/Website: ?
 * Code: https://github.com/geoheelias/AtommullAtlas (?)
 * Status: ?
@@ -64,7 +64,7 @@ If there are mistakes in this document, I am sorry. Please open [an issue](https
 
 ### Crabgrass
 
-* Social Networking, Group Collaboration and Network Organisation
+* A Platform for Social Networking, Group Collaboration and Network Organisation
 * Demo/Website: https://we.riseup.net/crabgrass
 * Code: ?
 * Status: ?
@@ -88,7 +88,7 @@ If there are mistakes in this document, I am sorry. Please open [an issue](https
 
 ### tale:net
 
-* Platform to Collaboratively Generate new Ideas and Create a Network of Skills
+* A Platform to Collaboratively Generate new Ideas and Create a Network of Skills
 * Demo/Website: https://t4l3.net
 * Code: https://github.com/talenet
 * Status: Releasing
@@ -96,7 +96,7 @@ If there are mistakes in this document, I am sorry. Please open [an issue](https
 
 ### Stadtgestalten
 
-* Platform to Connect Activists in Rostock & Greifswald
+* A Platform to Connect Activists in Rostock & Greifswald
 * Demo/Website: https://stadtgestalten.org
 * Code: https://github.com/stadtgestalten
 * Status: Releasing
@@ -104,7 +104,7 @@ If there are mistakes in this document, I am sorry. Please open [an issue](https
 
 ### docloopOER
 
-* Automatically Turns Annotations of PDFs into e.g. Github Tasks
+* A Service to Automatically Turn Annotations of PDFs into e.g. Github Tasks
 * Demo/Website: https://docloop.net
 * Code: https://github.com/docLoop
 * Status: Releasing
@@ -128,7 +128,7 @@ If there are mistakes in this document, I am sorry. Please open [an issue](https
 
 ### Approxi
 
-* Let People Guess Data Points
+* A Website to Guess Data Points
 * Demo/Website: http://proto.approxi.de
 * Code: ?
 * Status: Developing
@@ -152,7 +152,7 @@ If there are mistakes in this document, I am sorry. Please open [an issue](https
 
 ### Cobudget
 
-* A Tool to Allocate Funds Collaboratively
+* A Tool for Organizations to Allocate Funds Collaboratively
 * Demo/Website: http://cobudget.co/
 * Code: https://github.com/cobudget
 * Status: ?
@@ -160,7 +160,7 @@ If there are mistakes in this document, I am sorry. Please open [an issue](https
 
 ### Open Data City Census
 
-* Automatically Score Open Data Portals of German Municipalities
+* A Website to Automatically Score Open Data Portals of German Municipalities
 * Demo/Website: ?
 * Code: https://github.com/open-data-city-census
 * Status: Developing
@@ -176,7 +176,7 @@ If there are mistakes in this document, I am sorry. Please open [an issue](https
 
 ### Bitmask
 
-* VPN Client for Android
+* A VPN Client for Android
 * Demo/Website: https://bitmask.net
 * Code: https://0xacab.org/leap/bitmask_android
 * Status: Releasing
@@ -184,7 +184,7 @@ If there are mistakes in this document, I am sorry. Please open [an issue](https
 
 ### Pluragraph
 
-* Monitoring Numbers of Followers/Fans on Social Media
+* A Website that Monitors Numbers of Followers/Fans on Social Media
 * Demo/Website: https://pluragraph.de
 * Code: ?
 * Status: Releasing
