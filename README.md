@@ -1,18 +1,18 @@
 # Prototype Fund Projects
 
-There wasn't a a good overview of all the projects funced by the Prototype Fund so I compiled this list. It's incomplete in you are requested to help out.
+Since 2017, the [Prototype Fund](https://prototypefund.de/en/) financially supports open source projects in Germany. But there hasn't been a way to get a quick overview of all the amazing projects. So I compiled this list.
 
-If there are mistakes, I am sorry. Please open an issue or a pull request. Thanks!
+If there are mistakes in this document, I am sorry. Please open [an issue](https://github.com/jfilter/prototype-fund-projects/issues) or a pull request. Also, you are more than welcome to improve or add information. Thanks!
 
 ## Round #2 (01.09.2017 – 28.02.2018)
 
 ### Metawahl
 
-* Analysis of “Wahl-O-Maten” (Tools to help to choose parties)
+* Analysis of Different “Wahl-O-Mat” (Decision Aid for Elections)
 * Demo/Website: https://metawahl.de
 * Code: https://github.com/ciex/metawahl
-* Type: New
 * Status: Releasing
+* Type: New Project
 
 ### UwaziML
 
@@ -38,21 +38,21 @@ If there are mistakes, I am sorry. Please open an issue or a pull request. Thank
 * Status: Developing
 * Type: Relaunch
 
-### Search and Rescue Application:
+### Search and Rescue Application
 
-* A System to Improve the Coordination of volutran in the Medeteraian
+* A System to Improve the Coordination of Rescue Missions in the Mediterranean
 * Demo/Website: ?
 * Code: ?
 * Status: Developing
-* Type: New
+* Type: New Project
 
 ### Datenguide
 
-* A better interface for regional data
+* An Improved API and Website for Regional Statistics
 * Demo/Website: http://datengui.de
 * Code: https://github.com/datenguide
 * Status: Developing
-* Type: New
+* Type: New Project
 
 ### Atommüll-Atlas
 
@@ -60,19 +60,19 @@ If there are mistakes, I am sorry. Please open an issue or a pull request. Thank
 * Demo/Website: ?
 * Code: https://github.com/geoheelias/AtommullAtlas (?)
 * Status: ?
-* Type: New
+* Type: New Project
 
 ### Crabgrass
 
-* Social Networking, group collaboration and network organisation
+* Social Networking, Group Collaboration and Network Organisation
 * Demo/Website: https://we.riseup.net/crabgrass
 * Code: ?
 * Status: ?
 * Type: Improvements
 
-### Documents for Democracy:
+### Documents for Democracy
 
-* Enable Collaboration on Documentation specified Open Document Format (ODF used e.g. by \* LibreOffice)
+* Enable Collaboration ODF Documents (Open Document Format Used e.g. by LibreOffice)
 * Demo/Website: ?
 * Code: ?
 * Status: ?
@@ -80,26 +80,27 @@ If there are mistakes, I am sorry. Please open an issue or a pull request. Thank
 
 ### Meine Stadt Transparent
 
+* A Website to Bring Municipal Politics to Citizens
 * Demo/Website: https://meine-stadt-transparent.de
 * Code: https://github.com/meine-stadt-transparent
 * Status: Releasing
-* Type: New
+* Type: New Project
 
 ### tale:net
 
-* Platform to Collaborate Generate new Ideas and create a Network of Skills
+* Platform to Collaboratively Generate new Ideas and Create a Network of Skills
 * Demo/Website: https://t4l3.net
 * Code: https://github.com/talenet
 * Status: Releasing
-* Type: New
+* Type: New Project
 
 ### Stadtgestalten
 
-* Plattform to Connect Activists in Rostock & Greifswald
+* Platform to Connect Activists in Rostock & Greifswald
 * Demo/Website: https://stadtgestalten.org
 * Code: https://github.com/stadtgestalten
 * Status: Releasing
-* Type: Improvement
+* Type: Improvements
 
 ### docloopOER
 
@@ -107,7 +108,7 @@ If there are mistakes, I am sorry. Please open an issue or a pull request. Thank
 * Demo/Website: https://docloop.net
 * Code: https://github.com/docLoop
 * Status: Releasing
-* Type: New
+* Type: New Project
 
 ### VISOR
 
@@ -127,11 +128,11 @@ If there are mistakes, I am sorry. Please open an issue or a pull request. Thank
 
 ### Approxi
 
-* Approxi
-* Demo/Website: ?
+* Let People Guess Data Points
+* Demo/Website: http://proto.approxi.de
 * Code: ?
 * Status: Developing
-* Type: New
+* Type: New Project
 
 ### PhotonSDI
 
@@ -151,43 +152,43 @@ If there are mistakes, I am sorry. Please open an issue or a pull request. Thank
 
 ### Cobudget
 
-* Cobudget
-* Demo/Website: ?
-* Code: ?
+* A Tool to Allocate Funds Collaboratively
+* Demo/Website: http://cobudget.co/
+* Code: https://github.com/cobudget
 * Status: ?
-* Type: ?
+* Type: Improvements
 
 ### Open Data City Census
 
-* Open Data City Census
+* Automatically Score Open Data Portals of German Municipalities
 * Demo/Website: ?
-* Code: ?
-* Status: ?
-* Type: ?
+* Code: https://github.com/open-data-city-census
+* Status: Developing
+* Type: New Project
 
 ### Open Metro Maps
 
-* Open Metro Maps
-* Demo/Website: ?
-* Code: ?
-* Status: ?
-* Type: ?
+* A Tool to Create Schematic Public Transport Routing Maps
+* Demo/Website: https://www.openmetromaps.org
+* Code: https://github.com/OpenMetroMaps
+* Status: Releasing
+* Type: New Project
 
 ### Bitmask
 
-* Bitmask
-* Demo/Website: ?
-* Code: ?
-* Status: ?
-* Type: ?
+* VPN Client for Android
+* Demo/Website: https://bitmask.net
+* Code: https://0xacab.org/leap/bitmask_android
+* Status: Releasing
+* Type: Improvements
 
 ### Pluragraph
 
-* Pluragraph
-* Demo/Website: ?
+* Monitoring Numbers of Followers/Fans on Social Media
+* Demo/Website: https://pluragraph.de
 * Code: ?
-* Status: ?
-* Type: ?
+* Status: Releasing
+* Type: Improvements
 
 ## Round #1 (01.03.2017 – 31.08.2017)
 
