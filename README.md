@@ -161,7 +161,7 @@ If there are mistakes in this document, I am sorry. Please open [an issue](https
 ### Open Data City Census
 
 * A Website to Automatically Score Open Data Portals of German Municipalities
-* Demo/Website: ?
+* Demo/Website: http://opendatazensus.de
 * Code: https://github.com/open-data-city-census
 * Status: Developing
 * Type: New Project
