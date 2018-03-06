@@ -195,23 +195,24 @@ If there are mistakes in this document, I am sorry. Please open [an issue](https
 ### Commons Booking
 
 * ?
-* Demo/Website: ?
-* Code: ?
+* Demo/Website: http://www.wielebenwir.de/projekte/commons-booking
+* Code: https://github.com/wielebenwir/commons-booking
 * Status: ?
 * Type: ?
 
 ### dhcpanon
 
 * ?
-* Demo/Website: ?
-* Code: ?
+* Demo/Website: https://dhcpap.github.io
+* Documentation: https://dhcpcanon.readthedocs.io
+* Code: https://github.com/juga0/dhcpcanon
 * Status: ?
 * Type: ?
 
 ### Fireside
 
 * ?
-* Demo/Website: ?
+* Demo/Website: https://fr.sd (https broken!)
 * Code: ?
 * Status: ?
 * Type: ?
@@ -219,7 +220,7 @@ If there are mistakes in this document, I am sorry. Please open [an issue](https
 ### FixMyBerlin
 
 * ?
-* Demo/Website: ?
+* Demo/Website: https://fixmyberlin.launchrock.com
 * Code: ?
 * Status: ?
 * Type: ?
@@ -227,7 +228,7 @@ If there are mistakes in this document, I am sorry. Please open [an issue](https
 ### Foodsharing
 
 * ?
-* Demo/Website: ?
+* Demo/Website: https://foodsharing.de
 * Code: ?
 * Status: ?
 * Type: ?
@@ -235,80 +236,82 @@ If there are mistakes in this document, I am sorry. Please open [an issue](https
 ### frab
 
 * ?
-* Demo/Website: ?
-* Code: ?
+* Demo/Website: https://frab.github.io/frab
+* Code: https://github.com/frab/frab
 * Status: ?
 * Type: ?
 
 ### FrameTrail
 
 * ?
-* Demo/Website: ?
-* Code: ?
+* Demo/Website: https://frametrail.org
+* Documentation: https://frametrail.org/docs.html
+* Code: https://github.com/OpenHypervideo/FrameTrail
 * Status: ?
 * Type: ?
 
 ### GentriMap
 
 * ?
-* Demo/Website: ?
-* Code: ?
+* Demo/Website: http://gentrimap.herokuapp.com
+* Code: https://github.com/melmo/gentrimap-v2
 * Status: ?
 * Type: ?
 
 ### GeoHub
 
 * ?
-* Demo/Website: ?
-* Code: ?
+* Demo/Website: https://geohub-plattform.github.io
+* Code: https://github.com/grundid
 * Status: ?
 * Type: ?
 
 ### Grandine
 
 * ?
-* Demo/Website: ?
-* Code: ?
+* Demo/Website: https://thomas.skowron.eu/blog/grandine-summary-march-2017
+* Code: https://github.com/thomersch/grandine
 * Status: ?
 * Type: ?
 
 ### mietlimbo
 
 * ?
-* Demo/Website: ?
-* Code: ?
+* Demo/Website: https://mietlimbo.de
+* Code: https://github.com/ciex/mietlimbo
 * Status: ?
 * Type: ?
 
 ### Schleuder
 
 * ?
-* Demo/Website: ?
-* Code: ?
+* Demo/Website: https://schleuder.nadir.org
+* Documentation: https://schleuder.nadir.org/docs
+* Code: https://0xacab.org/schleuder
 * Status: ?
 * Type: ?
 
 ### Sign Dict
 
 * ?
-* Demo/Website: ?
-* Code: ?
+* Demo/Website: https://signdict.org
+* Code: https://github.com/signdict
 * Status: ?
 * Type: ?
 
 ### Speakerinnen
 
 * ?
-* Demo/Website: ?
-* Code: ?
+* Demo/Website: https://www.speakerinnen.org
+* Code: https://github.com/rubymonsters/speakerinnen_liste
 * Status: ?
 * Type: ?
 
 ### Syrian Archive
 
 * ?
-* Demo/Website: ?
-* Code: ?
+* Demo/Website: https://syrianarchive.org
+* Code: https://github.com/syrianarchive
 * Status: ?
 * Type: ?
 
