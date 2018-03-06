@@ -192,7 +192,125 @@ If there are mistakes in this document, I am sorry. Please open [an issue](https
 
 ## Round #1 (01.03.2017 – 31.08.2017)
 
-[TODO]
+### Commons Booking
+
+* ?
+* Demo/Website: ?
+* Code: ?
+* Status: ?
+* Type: ?
+
+### dhcpanon
+
+* ?
+* Demo/Website: ?
+* Code: ?
+* Status: ?
+* Type: ?
+
+### Fireside
+
+* ?
+* Demo/Website: ?
+* Code: ?
+* Status: ?
+* Type: ?
+
+### FixMyBerlin
+
+* ?
+* Demo/Website: ?
+* Code: ?
+* Status: ?
+* Type: ?
+
+### Foodsharing
+
+* ?
+* Demo/Website: ?
+* Code: ?
+* Status: ?
+* Type: ?
+
+### frab
+
+* ?
+* Demo/Website: ?
+* Code: ?
+* Status: ?
+* Type: ?
+
+### FrameTrail
+
+* ?
+* Demo/Website: ?
+* Code: ?
+* Status: ?
+* Type: ?
+
+### GentriMap
+
+* ?
+* Demo/Website: ?
+* Code: ?
+* Status: ?
+* Type: ?
+
+### GeoHub
+
+* ?
+* Demo/Website: ?
+* Code: ?
+* Status: ?
+* Type: ?
+
+### Grandine
+
+* ?
+* Demo/Website: ?
+* Code: ?
+* Status: ?
+* Type: ?
+
+### mietlimbo
+
+* ?
+* Demo/Website: ?
+* Code: ?
+* Status: ?
+* Type: ?
+
+### Schleuder
+
+* ?
+* Demo/Website: ?
+* Code: ?
+* Status: ?
+* Type: ?
+
+### Sign Dict
+
+* ?
+* Demo/Website: ?
+* Code: ?
+* Status: ?
+* Type: ?
+
+### Speakerinnen
+
+* ?
+* Demo/Website: ?
+* Code: ?
+* Status: ?
+* Type: ?
+
+### Syrian Archive
+
+* ?
+* Demo/Website: ?
+* Code: ?
+* Status: ?
+* Type: ?
 
 ## License
 
