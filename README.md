@@ -176,10 +176,10 @@ If there are mistakes in this document, I am sorry. Please open [an issue](https
 
 ### VISOR
 
-* A tool to visualise a process of urban development and stimulate the participation on it. Also created the oproc standard to describe this kind of processes. Its a collaboration for resarch with researchers from the HTW Dresden.
-* Demo/Website: in comming
+* A tool to Visualize Possibilites of Participating in an Urban Development Project
+* Demo/Website: ?
 * Code: https://github.com/VISOR-tool/
-* Status: gentle ongoing 
+* Status: Developing 
 * Type: New Project
 
 ### Wahl.Daten.Helfer.
