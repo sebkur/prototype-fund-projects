@@ -276,43 +276,42 @@ If there are mistakes in this document, I am sorry. Please open [an issue](https
 
 ### mietlimbo
 
-* ?
+* Support German Citizes in Legal Issues Regarding Renting Prices
 * Demo/Website: https://mietlimbo.de
 * Code: https://github.com/ciex/mietlimbo
-* Status: ?
-* Type: ?
+* Status: Discontinued
+* Type: New Project
 
 ### Schleuder
 
-* ?
+* A GPG-enabled Mailing List Manager with Resending Capabilities
 * Demo/Website: https://schleuder.nadir.org
-* Documentation: https://schleuder.nadir.org/docs
 * Code: https://0xacab.org/schleuder
-* Status: ?
+* Status: Releasing
 * Type: ?
 
 ### Sign Dict
 
-* ?
+* A Crowdsourced Sign Language Dictionary
 * Demo/Website: https://signdict.org
 * Code: https://github.com/signdict
-* Status: ?
-* Type: ?
+* Status: Releasing
+* Type: New Project
 
 ### Speakerinnen
 
-* ?
+* A Directory for Female Speaker
 * Demo/Website: https://www.speakerinnen.org
 * Code: https://github.com/rubymonsters/speakerinnen_liste
-* Status: ?
-* Type: ?
+* Status: Releasing
+* Type: Improvements
 
 ### Syrian Archive
 
-* ?
+* Document Human Right Violations in Syria
 * Demo/Website: https://syrianarchive.org
 * Code: https://github.com/syrianarchive
-* Status: ?
+* Status: Releasing
 * Type: ?
 
 ## License
