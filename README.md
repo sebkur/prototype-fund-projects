@@ -121,10 +121,10 @@ If there are mistakes in this document, I am sorry. Please open [an issue](https
 ### PhotonSDI
 
 * PhotonSDI
-* Demo/Website: ?
-* Code: ?
-* Status: ?
-* Type: ?
+* Demo/Website: http://felixheld.de/projects/photonsdi/
+* Code: https://github.com/felixheld/photonSDI
+* Status: Developing
+* Type: New Project
 
 ### Pluragraph
 
